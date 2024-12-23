@@ -1,0 +1,11 @@
+Route_ID,Start_Location,End_Location,Traffic_Level,Distance_km,Expected_Time_Minutes,Actual_Time_Minutes,Delay_Flag
+1,A,K,High,12.5,40,45,1
+2,B,L,Medium,20.3,55,60,1
+3,C,M,Low,8.1,20,18,0
+4,D,N,Medium,15.7,35,38,1
+5,E,O,High,10.2,30,35,1
+6,F,P,Low,5.6,15,12,0
+7,G,Q,High,18.4,50,55,1
+8,H,R,Medium,13.2,45,48,1
+9,I,S,Low,7.8,25,22,0
+10,J,T,High,25.5,70,75,1
